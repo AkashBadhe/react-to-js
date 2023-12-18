@@ -13,7 +13,7 @@ The example provided is for [Chat-Template](https://github.com/sevenleaps/chat-t
 
 Step 3 will generate two files in the build folder. A chat-template.js and chat-template-min.js.
 
-See [index.html](/react-webpack-wrapper-example/blob/master/index.html) for an example how these files are consumed.
+See [index.html](https://github.com/AkashBadhe/react-to-js/blob/main/index.html) for an example how these files are consumed.
 
 ### Adapting for a different component
 
